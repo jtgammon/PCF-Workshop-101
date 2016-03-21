@@ -8,7 +8,8 @@ This half-day hands-on classroom style session will provide operators with hands
  * Session: _Pivotal Cloud Foundry Architecture and Operations_ 
  * Demo: _Pushing Your First App_
  * Demo: _Ops Manager_
-2:00 PM - 2:15 PM:: Break
+2:00 PM - 2:15 PM:: 
+ * Break
 2:15 PM - 4:00 PM:: 
 * Labs - Push, Scale, Bind, Monitor and Integrate your app
 
