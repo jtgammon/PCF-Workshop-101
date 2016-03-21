@@ -2,20 +2,14 @@
 
 == Schedule
 
-This one day hands-on classroom style session will provide developers (and operators) with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
+This half-day hands-on classroom style session will provide operators with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
-12:30 PM - 1:00 PM::
+1:00 PM - 2:00 PM::
  * Session: _Pivotal Cloud Foundry Architecture and Operations_ 
-1:00 PM - 1:30 PM::
- * Demo: Pushing your first app, Apps Manager, Ops Manager_
-1:30 PM - 1:45 PM:: Break
-1:45 PM - 3:00 PM:: 
-* Session 2: _Pivotal Cloud Foundry Architecture and Containers_
-* Session 2: _Pivotal Cloud Foundry for Operators_
-3:00 PM - 3:15 PM:: Break
-3:15 PM - 3:30 PM:: 
-* Session 3: _Pivotal Cloud Foundry Services_
-3:30 PM - 5:30 PM:: 
+ * Demo: _Pushing Your First App_
+ * Demo: _Ops Manager_
+2:00 PM - 2:15 PM:: Break
+2:15 PM - 4:00 PM:: 
 * Labs - Push, Scale, Bind, Monitor and Integrate your app
 
 == Course Materials
