@@ -4,14 +4,14 @@
 
 This half-day hands-on classroom style session will provide operators with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
-1:00 PM - 2:00 PM::
+1:00 PM - 1:45 PM::
  * Session: _Pivotal Cloud Foundry Architecture and Operations_ 
  * Demo: _Pushing Your First App_
  * Demo: _Ops Manager_
-2:00 PM - 2:15 PM:: 
- * Break
-2:15 PM - 4:00 PM:: 
-* Labs - Push, Scale, Bind, Monitor and Integrate your app
+1:45 PM - 3:00 PM:: 
+ * Labs 1-4 - Basics of Interacting with a CloudFoundry Application
+3:00 PM - 4:00 PM:: 
+ * Labs 5-7 - Problem Based Troubleshooting Scenarios
 
 == Pre-Requisites
 * Each participant must have the Cloud Foundry Command line Client (cf-cli) installed
@@ -20,7 +20,7 @@ This half-day hands-on classroom style session will provide operators with hands
   2. Unzip to a cf-cli dir.
   3. Add cf-cli dir. to your PATH user local environment variable
   4. "cf help " command output will validate that you have a functional cf-cli
-* Each participant must have a developer role in 
+* Each participant must have a developer role in the CF org/space.
 
 
 == Course Materials
