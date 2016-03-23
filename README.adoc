@@ -2,7 +2,7 @@
 
 == Schedule
 
-This half-day hands-on classroom style session will provide operators with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
+This half-day hands-on classroom style session will provide operators with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs.
 
 1:00 PM - 1:45 PM::
  * Session: _Pivotal Cloud Foundry Architecture and Operations_ 
