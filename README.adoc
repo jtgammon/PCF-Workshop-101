@@ -19,7 +19,7 @@ This half-day hands-on classroom style session will provide operators with hands
 * Session 2: link:presentations/Session_2_Architecture_And_Operations.pptx[Pivotal Cloud Foundry Architecture and Operations]
 * Session 3: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
 
-* Developer Workshop
+* Operations Workshop
 ** Lab 1 - From Zero to Pushing Your First Application
 *** link:labs/lab1/lab.adoc[**Java** Application]
 ** link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]
