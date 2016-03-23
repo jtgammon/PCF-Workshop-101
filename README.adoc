@@ -13,6 +13,16 @@ This half-day hands-on classroom style session will provide operators with hands
 2:15 PM - 4:00 PM:: 
 * Labs - Push, Scale, Bind, Monitor and Integrate your app
 
+== Pre-Requisites
+* Each participant must have the Cloud Foundry Command line Client (cf-cli) installed
+  Instructions:
+  1. Download https://cli.run.pivotal.io/stable?release=windows64-exe&version=6.16.1&source=github-rel
+  2. Unzip to a cf-cli dir.
+  3. Add cf-cli dir. to your PATH user local environment variable
+  4. "cf help " command output will validate that you have a functional cf-cli
+* Each participant must have a developer role in 
+
+
 == Course Materials
 
 * Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[Welcome to the Cloud Native Enterprise]
