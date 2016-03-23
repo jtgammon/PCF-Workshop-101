@@ -26,7 +26,8 @@ This half-day hands-on classroom style session will provide operators with hands
 == Course Materials
 
 * Session 1: link:presentations/Session_2_Architecture_And_Operations.pptx[Pivotal Cloud Foundry Architecture and Operations]
-* Additonal Slides: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[Welcome to the Cloud Native Enterprise] link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
+* Additional Slides: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[Welcome to the Cloud Native Enterprise]
+* Additional Slides: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
 
 * Operations Workshop
 ** Lab 1 - From Zero to Pushing Your First Application
