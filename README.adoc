@@ -6,10 +6,10 @@ This half-day hands-on classroom style session will provide operators with hands
 
 1:00 PM - 1:45 PM::
  * Session: _Pivotal Cloud Foundry Architecture and Operations_ 
- * Demo: _Pushing Your First App_
+ * Demo: _App Operations_
  * Demo: _Ops Manager_
 1:45 PM - 3:00 PM:: 
- * Labs 1-4 - Basics of Interacting with a CloudFoundry Application
+ * Labs 1-4 - App Operations - Lifecycle, logging, blue-green deploys
 3:00 PM - 4:00 PM:: 
  * Labs 5-7 - Problem Based Troubleshooting Scenarios
 
@@ -30,7 +30,16 @@ This half-day hands-on classroom style session will provide operators with hands
 * Additional Slides: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
 
 * Operations Workshop
-** link:labs/lab1/lab.adoc[Lab 1 - From Zero to Pushing Your First Application]
-** link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]
+** link:labs/lab1/lab.adoc[Lab 1 - Preparing the Environment]
+** link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]   (Optional)
 ** link:labs/lab3/lab.adoc[Lab 3 - Operating Your Application]
 ** link:labs/lab4/lab.adoc[Lab 4 - Monitoring Your Application]
+
+** link:labs/lab4/lab.adoc[Lab 5 - High CPU Scenario]
+*** Monitoring, detection, logging, artifact collection
+** link:labs/lab4/lab.adoc[Lab 6 - Out-of-Memory Scenario]
+*** Monitoring, detection, logging, artifact collection
+** link:labs/lab4/lab.adoc[Lab 7 - App Change Scenario]
+*** Monitoring, detection, logging, artifact collection
+
+
