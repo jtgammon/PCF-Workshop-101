@@ -9,7 +9,7 @@ This half-day hands-on classroom style session will provide operators with hands
  * Demo: _App Operations_
  * Demo: _Ops Manager_
 1:45 PM - 3:00 PM:: 
- * Labs 1-4 - App Operations - Lifecycle, logging, blue-green deploys
+ * Labs 1-4 - App Operations - Lifecycle, scaling, logging, blue-green deploys
 3:00 PM - 4:00 PM:: 
  * Labs 5-7 - Problem Based Troubleshooting Scenarios
 
